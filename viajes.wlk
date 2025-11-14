@@ -1,7 +1,8 @@
+///Fabricio
 class Viaje {
     const idiomas = []
     method cantidadDias()
-    method implicaEsfuerzo()
+    method implicaEsfuerzo() 
     method sirveParaBroncearse()
     method esInteresante() = idiomas.size() > 1
 }
